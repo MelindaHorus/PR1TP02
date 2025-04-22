@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 
 /**
- *
+ *Armazenar seis nomes em uma matriz de ordem 2x3. Apresentar os nomes na tela.  
  * @author melin
  */
 public class TP02Ex06 {

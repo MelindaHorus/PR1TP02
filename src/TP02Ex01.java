@@ -7,7 +7,8 @@ import java.util.Scanner;
  */
 
 /**
- *
+ *Entrar com dois valores via teclado, onde o segundo valor deverá ser maior que o primeiro. 
+Caso contrário solicitar novamente apenas o segundo valor.  
  * @author melin
  */
 

@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 
 /**
- *
+ *Armazenar seis valores em uma matriz de ordem 2x3. Apresentar os valores na tela.  
  * @author melin
  */
 public class TP02Ex04 {
